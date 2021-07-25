@@ -1,5 +1,6 @@
 //  Author      : Черняев Андрей
 //  Description : Многопоточное приложение с передачей данных из нити обработки в нить формы по указателю
+// Полное описание https://habr.com/ru/post/485324/
 #include "mainwindow.h"
 #include "ui_mainwindow.h"
 
